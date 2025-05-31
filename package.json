@@ -1,13 +1,13 @@
 {
-    "name": "HastaStudiosLauncher",
+    "name": "AuroraVitaeLauncher",
     "version": "2.0.7",
-    "productName": "Hasta Studios Launcher",
-    "description": "Oficial Laucnher For All Hasta Studios And ZSMP Projects",
-    "author": "Shisuys (https://github.com/shisuiicaro/)",
+    "productName": "Aurora Vitae Launcher",
+    "description": "Oficial Laucnher For All Aurora Vitae And alio13 Projects",
+    "author": "Shisuys (https://github.com/shisuiicaro/) modified by alio13 from AuroraVitaeSMP (https://github.com/alio13013/)",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/Shisuiicaro/HastaStudiosLauncher",
+    "homepage": "https://github.com/alio13013",
     "bugs": {
-        "url": "https://discord.gg/zsmp"
+        "url": "https://discord.gg/avsmp"
     },
     "private": true,
     "main": "index.js",
@@ -47,6 +47,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Shisuiicaro/HastaStudiosLauncher.git"
+        "url": "git+https://github.com/alio13013.git"
     }
 }

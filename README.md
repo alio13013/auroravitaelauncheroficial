@@ -1,7 +1,7 @@
 
 <img src="https://zelthoriaismp.cloud/Launcher/assets/logo.png" alt="Logo" width="450">
 
-# Hasta Studios Launcher
+# Aurora Vitae Launcher
 
 A cracked fork of helios launcher.
 
@@ -19,6 +19,6 @@ A cracked fork of helios launcher.
   - Add multiple accounts and easily switch between them.
   - Microsoft (OAuth 2.0) and custom authentication server fully supported.
   - Offline account support (cracked)
-  - Credentials are never stored and transmitted directly to Hasta Studios or Microsoft.
+  - Credentials are never stored and transmitted directly to Aurora Vitae or Microsoft.
 
 
