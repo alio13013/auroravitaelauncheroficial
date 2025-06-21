@@ -23,9 +23,9 @@ welcomeDescription = """
 Bem-vindo ao Aurora Vitae SMP — onde o silêncio do Exílio guarda ecos de novos destinos.
 Junte-se a almas errantes que, como você, foram despertadas por algo maior. — para construir, lembrar, lutar e imaginar. Em meio às muralhas do Exílio, surgem pontes, histórias e laços forjados em esperança e desafios.
 
-But wait, there's more! To join in the fun, just hop onto our Discord server to self-register and gain access to our exclusive realm of emotions. Whether you're a seasoned explorer or a novice builder, AVSMP welcomes players of all skill levels.
+Mas espere, tem mais! Para participar da diversão, basta acessar nosso servidor do Discord para se cadastrar e ter acesso ao nosso reino exclusivo de emoções. Seja você um explorador experiente ou um construtor iniciante, o AVSMP acolhe jogadores de todos os níveis.
 
-So, what are you waiting for? Click "Continue" and let the adventures begin!
+Então, o que você está esperando? Clique em "Continuar" e desperte em suas novas aventuras!
 """
 
 [ejs.overlay]
