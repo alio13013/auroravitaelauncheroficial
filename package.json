@@ -1,9 +1,9 @@
 {
     "name": "AuroraVitaeLauncher",
-    "version": "2.0.7",
+    "version": "2.0.11",
     "productName": "Aurora Vitae Launcher",
     "description": "Oficial Laucnher For All Aurora Vitae And alio13 Projects",
-    "author": "Shisuys (https://github.com/shisuiicaro/) modified by alio13 from AuroraVitaeSMP (https://github.com/alio13013/)",
+    "author": "alio13 (https://github.com/shisuiicaro/) modified by alio13 from AuroraVitaeSMP (https://github.com/alio13013/)",
     "license": "UNLICENSED",
     "homepage": "https://github.com/alio13013",
     "bugs": {

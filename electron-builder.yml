@@ -40,8 +40,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Shisuys'
-  vendor: 'Shisuys'
+  maintainer: 'alio13'
+  vendor: 'alio13'
   synopsis: 'Aurora Vitae Minecraft Launcher'
   description: 'Oficial Laucnher For All Aurora Vitae And alio13 Projects'
   category: 'Game'
